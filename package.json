@@ -1,12 +1,12 @@
 {
-  "name": "Your-Own-Bot",
+  "name": "𝕾𝖔𝖋𝖙𝖜𝖆𝖗𝖊_𝖉𝖊𝖛_𝖇𝖔𝖙",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ArslanMD Official",
+  "description": "A WhatsApp Bot Created By 𝕾𝖔𝖋𝖙𝖜𝖆𝖗𝖊_𝖉𝖊𝖛 Official",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Your-Own-Bot",
-    "stop": "pm2 stop Your-Own-Bot",
-    "restart": "pm2 restart Your-Own-Bot"
+    "start": "pm2 start index.js --deep-monitoring --attach --name 𝕾𝖔𝖋𝖙𝖜𝖆𝖗𝖊_𝖉𝖊𝖛_𝖇𝖔𝖙",
+    "stop": "pm2 stop 𝕾𝖔𝖋𝖙𝖜𝖆𝖗𝖊_𝖉𝖊𝖛_𝖇𝖔𝖙",
+    "restart": "pm2 restart 𝕾𝖔𝖋𝖙𝖜𝖆𝖗𝖊_𝖉𝖊𝖛_𝖇𝖔𝖙"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
